@@ -8,6 +8,7 @@
   <img src="https://github.com/KsenyaVasilchenko/Practicum_projects/blob/main/statistical_data_analysis_project3/images_project3/stat_3.png" alt="Статистика 3" width="450">
   <img src="https://github.com/KsenyaVasilchenko/Practicum_projects/blob/main/statistical_data_analysis_project3/images_project3/stat_1.png" alt="Статистика 1" width="550">
 </div>
+
   - Среднее время поездки — около 18 минут, большинство пользователей — в возрасте около 25 лет.
   - Число пользователей без подписки немного выше числа пользователей с подпиской.
   - Наиболее упоминаемый город — Пятигорск; Москва упоминается реже всего.
