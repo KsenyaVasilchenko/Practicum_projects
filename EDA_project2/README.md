@@ -45,6 +45,6 @@
 
 
 ## Стек
-- Python для анализа данных
-- Pandas и NumPy для обработки данных
-- Matplotlib и Seaborn для визуализации результатов
+- `Python`
+- `Pandas` и `NumPy`
+- `Matplotlib` и `Seaborn`
